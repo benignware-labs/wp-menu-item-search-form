@@ -1,0 +1,19 @@
+# Eclipse
+.settings
+.project
+
+# GFM Preview
+.README.md.html
+
+# Mac OS
+.DS_Store
+
+# Composer
+composer.phar
+
+# Build
+tmp
+dist
+
+# Vendor
+vendor
